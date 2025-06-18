@@ -1,5 +1,7 @@
 # 🤖 LangChain Multi-Tool Agent: Data Science Assistant
 
+<img src="https://github.com/user-attachments/assets/0d0fc5d0-f46b-4c08-b2ae-4f3df2821cf8" alt="Aung's Avatar" width="100" height="100"/>
+
 This project demonstrates a custom **LangChain agent** designed to answer questions related to **data science course content**, while also using tools like **Wikipedia search**, **local vectorstore retrieval**, and Python introspection tools. Built with LangChain and OpenAI, the agent showcases modular tool calling and retrieval-augmented generation (RAG).
 
 ---
